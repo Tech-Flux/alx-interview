@@ -1,2 +1,0 @@
-# alx-intervieww
-
